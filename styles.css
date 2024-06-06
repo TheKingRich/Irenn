@@ -24,6 +24,7 @@ body {
     overflow: hidden;
     max-width: 500px;
     text-align: center;
+    width: 100%;
 }
 
 .photo {
@@ -52,5 +53,13 @@ body {
     .card {
         width: 100%;
         margin: 10px;
+    }
+
+    .message {
+        padding: 10px;
+    }
+
+    .message p {
+        font-size: 14px;
     }
 }
